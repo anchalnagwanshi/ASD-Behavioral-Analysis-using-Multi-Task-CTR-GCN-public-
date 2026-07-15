@@ -1,4 +1,4 @@
-# ASD Behavioral Analysis using Multi-Task CTR-GCN
+Attention-Enhanced GCN for ASD Activity and RRB Classification from 3D Skeleton
 
 ## Overview
 
